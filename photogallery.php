@@ -18,9 +18,10 @@
       <li class="TabbedPanelsTab" tabindex="2">Congo</li>
       <li class="TabbedPanelsTab" tabindex="3">Tanzania</li>
       <li class="TabbedPanelsTab" tabindex="4">Zambia</li>
-       <li class="TabbedPanelsTab" tabindex="5">Rwanda/Burundi</li>
-      <li class="TabbedPanelsTab" tabindex="6">India</li>
-      <li class="TabbedPanelsTab" tabindex="7">Cuba</li>
+      <li class="TabbedPanelsTab" tabindex="5">Rwanda/Burundi</li>
+	  <li class="TabbedPanelsTab" tabindex="6">Kenya</li>
+      <li class="TabbedPanelsTab" tabindex="7">India</li>
+      <li class="TabbedPanelsTab" tabindex="8">Cuba</li>
     </ul>
     <div class="TabbedPanelsContentGroup">
       <div class="TabbedPanelsContent" id="uganda">
@@ -126,46 +127,86 @@
       <div class="TabbedPanelsContent" id="zambia">
       
       <h2>Zambia</h2>
+
+<h3 style="clear: both;">Farmland</h3>
+
+<a href="images/photo-gallery/zambia/DSCN0137.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0137.jpg" width="100" height="75" alt="DSCN0137"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0138.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0138.jpg" width="100" height="75" alt="DSCN0138"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0148.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0148.jpg" width="100" height="75" alt="DSCN0148"></a>
+
+<h3 style="clear: both;">Streetmarkets</h3>
+
+<a href="images/photo-gallery/zambia/DSCN0077.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0077.jpg" width="100" height="75" alt="DSCN0077"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0079.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0079.jpg" width="100" height="75" alt="DSCN0079"></a>
+
+<h3 style="clear: both;">Cooking</h3>
+
+<a href="images/photo-gallery/zambia/DSCN0215.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0215.jpg" width="100" height="75" alt="DSCN0215"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0217.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0217.jpg" width="100" height="75" alt="DSCN0217"></a>
+
+<h3 style="clear: both;">Worship Service</h3>
+
+<a href="images/photo-gallery/zambia/DSCN0231.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0231.jpg" width="100" height="75" alt="DSCN0231"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0268.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0268.jpg" width="100" height="75" alt="DSCN0268"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0299.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0299.jpg" width="100" height="75" alt="DSCN0299"></a>
+
+<h3 style="clear: both;">African Admins, Pastor Alfred Nsofwa and Ordrea </h3>
+
+<a href="images/photo-gallery/zambia/DSCN0309.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0309.jpg" width="100" height="75" alt="DSCN0309"></a>
+
+<h3 style="clear: both;">LTM Training Center</h3>
+
+<a href="images/photo-gallery/zambia/DSCN0132.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0132.jpg" width="100" height="75" alt="DSCN0132"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0097.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0097.jpg" width="100" height="75" alt="DSCN0097"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0104.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0104.jpg" width="100" height="75" alt="DSCN0104"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0118.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0118.jpg" width="100" height="75" alt="DSCN0118"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0124.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0124.jpg" width="100" height="75" alt="DSCN0124"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0194.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0194.jpg" width="100" height="75" alt="DSCN0194"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0214.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0214.jpg" width="100" height="75" alt="DSCN0214"></a>
       
-      <h3>Street Evangelism</h3>
-<a href="images/photo-gallery/zambia/Street ministry in Lasaka Zambia.jpg" class="lightbox" title="Street Ministry In Lasaka Zambia"><img src="images/photo-gallery/thumbs/zambia/Street ministry in Lasaka Zambia.jpg" width="100" height="75" alt="Street Ministry In Lasaka Zambia"></a>
-
-<a href="images/photo-gallery/zambia/Praying for the Aids victims.jpg" class="lightbox" title="Praying For The Aids Victims"><img src="images/photo-gallery/thumbs/zambia/Praying for the Aids victims.jpg" width="100" height="75" alt="Praying For The Aids Victims"></a>
-
-<a href="images/photo-gallery/zambia/Aid Victims.jpg" class="lightbox" title="Aid Victims"><img src="images/photo-gallery/thumbs/zambia/Aid Victims.jpg" width="100" height="75" alt="Aid Victims"></a>
-
-<a href="images/photo-gallery/zambia/Aids Victims.jpg" class="lightbox" title="Aids Victims"><img src="images/photo-gallery/thumbs/zambia/Aids Victims.jpg" width="100" height="75" alt="Aids Victims"></a>
-
-<h3 style="clear: both;">Lightning &amp; Thunder Churches</h3>
-
-<a href="images/photo-gallery/zambia/Bush church congregation.jpg" class="lightbox" title="Bush Church Congregation"><img src="images/photo-gallery/thumbs/zambia/Bush church congregation.jpg" width="100" height="75" alt="Bush Church Congregation"></a>
-
-<a href="images/photo-gallery/zambia/The bush church.jpg" class="lightbox" title="The Bush Church"><img src="images/photo-gallery/thumbs/zambia/The bush church.jpg" width="100" height="75" alt="The Bush Church"></a>
-
-<a href="images/photo-gallery/zambia/Church congregation in Chingola.jpg" class="lightbox" title="Church Congregation In Chingola"><img src="images/photo-gallery/thumbs/zambia/Church congregation in Chingola.jpg" width="100" height="75" alt="Church Congregation In Chingola"></a>
-
-<a href="images/photo-gallery/zambia/Pastors of one of LTM churches.jpg" class="lightbox" title="Pastors Of One Of LTM Churches"><img src="images/photo-gallery/thumbs/zambia/Pastors of one of LTM churches.jpg" width="100" height="75" alt="Pastors Of One Of LTM Churches"></a>
-
-<a href="images/photo-gallery/zambia/Preaching at one of LTM churches.jpg" class="lightbox" title="Preaching At One Of LTM Churches"><img src="images/photo-gallery/thumbs/zambia/Preaching at one of LTM churches.jpg" width="100" height="75" alt="Preaching At One Of LTM Churches"></a>
-
-<h3 style="clear: both;">Agape Land School</h3>
-
-<a href="images/photo-gallery/zambia/Food for school kids.jpg" class="lightbox" title="Food For School Kids"><img src="images/photo-gallery/thumbs/zambia/Food for school kids.jpg" width="100" height="75" alt="Food For School Kids"></a>
-
-<a href="images/photo-gallery/zambia/Children at school.jpg" class="lightbox" title="Children At School"><img src="images/photo-gallery/thumbs/zambia/Children at school.jpg" width="100" height="75" alt="Children At School"></a>
-
-<a href="images/photo-gallery/zambia/Zambia School of Ministry.jpg" class="lightbox" title="Zambia School Of Ministry"><img src="images/photo-gallery/thumbs/zambia/Zambia School of Ministry.jpg" width="100" height="75" alt="Zambia School Of Ministry"></a>
 <br \><br \><br \><br \>
 </div>
 
 
       <div class="TabbedPanelsContent" id="rwanda-burundi">
       
-      <h2>Rwanda/Burundi</h2>
+<h2>Rwanda</h2>
 
-<h3>Rwanda</h3>
+<h3 style="clear: both;">Foursquare Church</h3>
+
+<a href="images/photo-gallery/rwanda-burundi/DSCN0399.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/rwanda-burundi/DSCN0399.jpg" width="100" height="75" alt="DSCN0399"></a>
+
+<a href="images/photo-gallery/rwanda-burundi/DSCN0404.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/rwanda-burundi/DSCN0404.jpg" width="100" height="75" alt="DSCN0404"></a>
+
+<a href="images/photo-gallery/rwanda-burundi/DSCN0423.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/rwanda-burundi/DSCN0423.jpg" width="100" height="75" alt="DSCN0423"></a>
+
+<a href="images/photo-gallery/rwanda-burundi/DSCN0582.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/rwanda-burundi/DSCN0582.jpg" width="100" height="75" alt="DSCN0582"></a>
+
+<a href="images/photo-gallery/rwanda-burundi/DSCN0583.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/rwanda-burundi/DSCN0583.jpg" width="100" height="75" alt="DSCN0583"></a>
+
+<a href="images/photo-gallery/rwanda-burundi/DSCN0611.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/rwanda-burundi/DSCN0611.jpg" width="100" height="75" alt="DSCN0611"></a>
+
+<h3 style="clear: both;">African Nation Leaders</h3>
+
+<a href="images/photo-gallery/rwanda-burundi/DSCN0601.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/rwanda-burundi/DSCN0601.jpg" width="100" height="75" alt="DSCN0601"></a>
+
+<h3 style="clear: both;">Rwanda Radio Program</h3>
 
 <a href="images/photo-gallery/rwanda-burundi/image005.jpg" class="lightbox" title="Dick ministering on a Christian radio station"><img src="images/photo-gallery/thumbs/rwanda-burundi/image005.jpg" width="100" height="75" alt="Image005"></a>
+
+<h3 style="clear: both;">Revival Services</h3>
 
 <a href="images/photo-gallery/rwanda-burundi/image008.jpg" class="lightbox" title="Glory orbs at church conference"><img src="images/photo-gallery/thumbs/rwanda-burundi/image008.jpg" width="100" height="75" alt="Image008"></a>
 
@@ -173,21 +214,41 @@
 
 <a href="images/photo-gallery/rwanda-burundi/image010.jpg" class="lightbox" title="Dick dancing with the children"><img src="images/photo-gallery/thumbs/rwanda-burundi/image010.jpg" width="100" height="75" alt="Image010"></a>
 
-<a href="images/photo-gallery/rwanda-burundi/image011.jpg" class="lightbox" title="Dick and a team member"><img src="images/photo-gallery/thumbs/rwanda-burundi/image011.jpg" width="100" height="75" alt="Image011"></a>
-
-<h3 style="clear: both;">Burundi</h3>
-
-<a href="images/photo-gallery/rwanda-burundi/image002.jpg" class="lightbox" title="Dick Ministering in a church"><img src="images/photo-gallery/thumbs/rwanda-burundi/image002.jpg" width="100" height="75" alt="Image002"></a>
+<h2 style="clear: both;">Burundi</h2>
 
 <a href="images/photo-gallery/rwanda-burundi/image003.jpg" class="lightbox" title="Dick and the Children"><img src="images/photo-gallery/thumbs/rwanda-burundi/image003.jpg" width="100" height="75" alt="Image003"></a>
 
 <a href="images/photo-gallery/rwanda-burundi/image004.jpg" class="lightbox" title="Dick preaching at the Presidents Palace"><img src="images/photo-gallery/thumbs/rwanda-burundi/image004.jpg" width="100" height="75" alt="Image004"></a>
 
-<a href="images/photo-gallery/rwanda-burundi/image006.jpg" class="lightbox" title="At the lake"><img src="images/photo-gallery/thumbs/rwanda-burundi/image006.jpg" width="100" height="75" alt="Image006"></a>
-
-<a href="images/photo-gallery/rwanda-burundi/image007.jpg" class="lightbox" title="Boating"><img src="images/photo-gallery/thumbs/rwanda-burundi/image007.jpg" width="100" height="75" alt="Image007"></a>
 <br \><br \><br \><br \>
 </div>
+
+
+
+      <div class="TabbedPanelsContent" id="kenya">
+      
+      <h2>Kenya</h2>
+
+<h3 style="clear: both;">Nairobi Revival Fire Meeting</h3>
+
+<a href="images/photo-gallery/kenya/DSCN0348.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/kenya/DSCN0348.jpg" width="100" height="75" alt="DSCN0348"></a>
+
+<a href="images/photo-gallery/kenya/DSCN0356.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/kenya/DSCN0356.jpg" width="100" height="75" alt="DSCN0356"></a>
+
+<a href="images/photo-gallery/kenya/DSCN0358.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/kenya/DSCN0358.jpg" width="100" height="75" alt="DSCN0358"></a>
+
+<a href="images/photo-gallery/kenya/DSCN0362.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/kenya/DSCN0362.jpg" width="100" height="75" alt="DSCN0362"></a>
+
+<a href="images/photo-gallery/kenya/DSCN0371.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/kenya/DSCN0371.jpg" width="100" height="75" alt="DSCN0371"></a>
+
+<a href="images/photo-gallery/kenya/DSCN0394.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/kenya/DSCN0394.jpg" width="100" height="75" alt="DSCN0394"></a>
+
+<a href="images/photo-gallery/kenya/DSCN0397.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/kenya/DSCN0397.jpg" width="100" height="75" alt="DSCN0397"></a>
+
+<br \><br \><br \><br \>
+</div>
+
+
 
       <div class="TabbedPanelsContent" id="india">
       <h2>India</h2>

@@ -2,7 +2,7 @@
   <div id="content">
   <embed src="mp3/thunder3.wav" hidden="true" autostart="true">
     <div align="center">
-      <h2>Signs, Wonders &amp; Miracles - Taking the Gospel to the Nations Hello</h2>
+      <h2>Signs, Wonders &amp; Miracles - Taking the Gospel to the Nations</h2>
     </div>
     <div id="box1">
       <div class="verse">
@@ -22,6 +22,10 @@
         <div class="clips petrol">
     	
         <ul class="youtube">
+			<li><a href="http://www.youtube.com/watch?v=yM5OR3bbogM">Zambia Project Video 2012
+            	<span>Lightning &amp; Thunder Ministry</span> 
+        		<em>5:32 min</em></a>
+            </li>
             <li><a href="http://www.youtube.com/watch?v=LXfFGx5IJ-Y">Dick Kessler - In My Fathers House
             	<span>Lightning &amp; Thunder Ministry</span> 
         		<em>6:09 min</em></a>
@@ -33,10 +37,6 @@
             <li><a href="http://www.youtube.com/watch?v=fcEgOt2NIEw">Cuba Worship Experience
             	<span>Lightning &amp; Thunder Ministry</span> 
         		<em>4:51 min</em></a>
-            </li>
-            <li><a href="#">Video Coming Soon
-            	<span>Lightning &amp; Thunder Ministry</span> 
-        		<em>0:00 min</em></a>
             </li>
         </ul>
         

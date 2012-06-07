@@ -18,6 +18,10 @@
 
 		<div id="sidebar2">
 			<h2></h2>
+			<p>Zambia, Kenya and Rwanda Africa Trip Summary. <a href="zambia-kenya-rwanda.html" rel="#overlay2">Read More...</a></p>
+			<div class="overlay" id="overlay2">
+				<div class="wrap"></div>
+			</div>
 			<p>God had given Richard a word to proclaim over Cuba: "“Cuba it is your time, Cuba it is your turn! "  Read more by going to the Cuba section on the <a href="missions.php">Missions page</a></p>
 			<p>12 Prophetic Words for 2012.  <a href="recentword-prophetic-words-2012.html" rel="#overlay">Read More...</a></p>
 			<div class="overlay" id="overlay">
@@ -27,11 +31,8 @@
 
 		<div id="sidebar3">
 			<h2></h2>
-			<div class="date">Feb 15th - 27th - Africa Mission Trip</div>
-			<p>We will be in Lusaka, Zambia &amp; Kigali, Rwanada holding a pastors conference, doing outreachs and much more! <a href="zambia2012.html" rel="#overlay4">Read More...</a></p>
-			<div class="overlay" id="overlay4">
-				<div class="wrap"></div>
-			</div>
+			<div class="date">Cuba Crusade</div>
+			<p>Details TBA</p>
 			<div class="date">Coming Soon - Supernatural Training Center</div>
 			<p>We are moving forward with a vision we received in 2005 to build a  Supernatural Training Center in Iowa!  <a href="trainingcenter.html" rel="#overlay5">Read More...</a></p>
 			<div class="overlay" id="overlay5">
