@@ -22,9 +22,9 @@
         <div class="clips petrol">
     	
         <ul class="youtube">
-			<li><a href="http://www.youtube.com/watch?v=yM5OR3bbogM">Zambia Project Video 2012
+			<li><a href="http://www.youtube.com/watch?v=Zom4cRcZCus">Lightning and Thunder Project
             	<span>Lightning &amp; Thunder Ministry</span> 
-        		<em>5:32 min</em></a>
+        		<em>2:38 min</em></a>
             </li>
             <li><a href="http://www.youtube.com/watch?v=LXfFGx5IJ-Y">Dick Kessler - In My Fathers House
             	<span>Lightning &amp; Thunder Ministry</span> 
