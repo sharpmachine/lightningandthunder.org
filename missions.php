@@ -119,13 +119,24 @@ at only 2.5%. The most dominant religion in India today is Hinduism.  About 82% 
 
       <div class="TabbedPanelsContent" id="cuba">
       <h2>Cuba</h2>
-<p>God had given Richard a word to proclaim over Cuba. "Cuba it is your time, Cuba it is your turn!" With connections to Cuba through Pastor Carballeira and his family we made a trip to Cuba in Feb. Not having a visa to preach we took advantage of this time to meet with pastors and leaders. Being invited to return we went back with a team in August for a Crusade and church ministry. It was more like a Jesus Celebration the whole time!!  What wonderful, hungry people.</p>
+<p>In 2011 a word of the Lord came to Richard for Cuba, “Cuba get ready, Cuba it is your turn, Cuba it is your time, Get ready!” Much has been happening in Cuba since that word was declared in Camaguey and Las Tunas, Cuba in August 2011. God has continued to do a work in that country and in the people.</p>
 
-<p>"FREEDOM!! IT IS YOUR TIME, IT IS YOUR TURN!"  Richard declared this word from the Lord of freedom over Cuba everywhere we went. Many people were saved and rededicated their lives to the Lord. We saw many healings  take place as the fire of God fell on the people.</p>
- 
-<p>Awesome Testimony: <br \>
-On Christmas day Richard’s mom brought him a Burlington, Ia. Hawkeye newspaper that had a full page article about Cuba. A quote from Raul Castro said "A year of make or break for the revolution is ending
-after dramatic flurry of once unthinkable reforms that are transforming economic and social life." In October the government legalized a used car market. It has extended its real estate, sweeping away decades of prohibitions, extending bank credits to new business owners and those who hope to repair their homes, and opening the way for people to start their own businesses. Some 355,000 people have received licenses to start their own businesses. This has been one of the most powerful reforms and has been unthinkable for Cuban. And the results can be seen and heard everywhere.</p>
+<h3>Testimony:</h3>
+
+<p>On Christmas day of 2011 Richard’s mother came bringing him the best present from God that he could have received. It was a newspaper having a full page article about the unprecedented advancement and freedoms that were opening to the people in Cuba through some 355,000 licenses for business and entrepreneurship. This release came from the government in October after that word from God was declared in August. Just a coincidence, we do not think so. The article told many things happening for the people, and it brought much joy and confirmation to our hearts and spirits.</p> 
+
+<p>In preparation for this trip in December 2012 we could feel the opposition in the spirit to once again proclaim the word of the Lord over Cuba. We were especially aware of this after having to change our tickets 3 times due to air carriers’ in and out of Cuba. Randy Whetstone who traveled with us changed his 4 times!</p>
+
+<p>Our dear brother and friend Adonis Carballeira had been on the ground there preparing and getting things ready for several months. Just a few weeks before the Crusade/Conference date the storm Sandy came on shore and hit the city of Santa Cruz where the event was planned. The church building that had opened its doors for the meetings was hit hard. The roof was gone and muddy water still standing everywhere. (Not to mention people lost their lives there because of the storm).</p>
+
+<p>There was no choice but to gather up all the food that had been purchased for the meals to feed the pastors and wives at the conference and bring it all back to Camaguey. This is the city we fly into and have held meetings in the past. Adonis found a pastor with a church building that could accommodate the conference with enough space and a kitchen. In this part of Cuba there cannot be any outdoor events, they have to be inside a building. But we believe this too will soon change.</p>
+
+<p>The Theme of the Pastor Conference was The Kingdom of Heaven. Due to religious spirits and division in the body of Christ being so strong in that place, the conference was stopped after the first meeting. These are a very strong prevalent spirits within the denominations in so many places. Differences in doctrine and jealousy between pastors make unity in the Kingdom very hard. So we loved them and blessed them and moved on.
+We experience, firsthand, the JOY of being counted worthy to be rejected for preaching of the Kingdom of God.</p>
+
+<p>NOW IS THE TIME for unity and oneness in the body of Christ. God is raising up a standard and a banner of victory in His kingdom to all who will lay down their own agenda’s for a higher cause and purpose of joining together to form a great army of servants who are willing to say Yes Lord use me.</p>
+
+<p>After contacting Pastor Luis Savedra in Las Tunas where we had been once before, the door was wide open to go and hold the meetings there. When we arrived, after a two hour drive the following day, they were ready and waiting. With powerful worship, dancing, and fiery preaching God showed Himself faithful to save, heal and manifest His glory among the people there. We were able to hold 3 wonderful meetings, plus a meeting in a village church.  On returning to Camaguey we held a meeting in Rev. Jesus Estela Rivero’s Church, where the Holy Spirit moved mightily, and the gift of prophesy was strong. </p>   
 
 
 </div>

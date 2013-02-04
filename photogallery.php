@@ -127,6 +127,21 @@
       <div class="TabbedPanelsContent" id="zambia">
       
       <h2>Zambia</h2>
+<h3 style="clear: both;">LTM Training Center</h3>
+
+<a href="images/photo-gallery/zambia/DSCN0132.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0132.jpg" width="100" height="75" alt="DSCN0132"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0097.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0097.jpg" width="100" height="75" alt="DSCN0097"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0104.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0104.jpg" width="100" height="75" alt="DSCN0104"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0118.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0118.jpg" width="100" height="75" alt="DSCN0118"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0124.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0124.jpg" width="100" height="75" alt="DSCN0124"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0194.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0194.jpg" width="100" height="75" alt="DSCN0194"></a>
+
+<a href="images/photo-gallery/zambia/DSCN0214.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0214.jpg" width="100" height="75" alt="DSCN0214"></a>
 
 <h3 style="clear: both;">Farmland</h3>
 
@@ -159,22 +174,6 @@
 <h3 style="clear: both;">African Admins, Pastor Alfred Nsofwa and Ordrea </h3>
 
 <a href="images/photo-gallery/zambia/DSCN0309.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0309.jpg" width="100" height="75" alt="DSCN0309"></a>
-
-<h3 style="clear: both;">LTM Training Center</h3>
-
-<a href="images/photo-gallery/zambia/DSCN0132.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0132.jpg" width="100" height="75" alt="DSCN0132"></a>
-
-<a href="images/photo-gallery/zambia/DSCN0097.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0097.jpg" width="100" height="75" alt="DSCN0097"></a>
-
-<a href="images/photo-gallery/zambia/DSCN0104.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0104.jpg" width="100" height="75" alt="DSCN0104"></a>
-
-<a href="images/photo-gallery/zambia/DSCN0118.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0118.jpg" width="100" height="75" alt="DSCN0118"></a>
-
-<a href="images/photo-gallery/zambia/DSCN0124.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0124.jpg" width="100" height="75" alt="DSCN0124"></a>
-
-<a href="images/photo-gallery/zambia/DSCN0194.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0194.jpg" width="100" height="75" alt="DSCN0194"></a>
-
-<a href="images/photo-gallery/zambia/DSCN0214.jpg" class="lightbox"><img src="images/photo-gallery/thumbs/zambia/DSCN0214.jpg" width="100" height="75" alt="DSCN0214"></a>
       
 <br \><br \><br \><br \>
 </div>
@@ -286,30 +285,41 @@
 <div class="TabbedPanelsContent" id="cuba">
       <h2>Cuba</h2>
 
+<a class="lightbox" href="images/photo-gallery/cuba/Adonis and Rubiselis.jpg"><img src="images/photo-gallery/thumbs/cuba/Adonis and Rubiselis.jpg" width="100" height="66" alt="Adonis And Rubiselis"></a>
 
-<a href="images/photo-gallery/cuba/cuba1.jpg" class="lightbox" title="Pastor Ricardo, Dick and Clydel"><img src="images/photo-gallery/thumbs/cuba/cuba1.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Adoniss wife Rubiselis pose with Randy Whetstone.jpg"><img src="images/photo-gallery/thumbs/cuba/Adoniss wife Rubiselis pose with Randy Whetstone.jpg" width="100" height="66" alt="Adoniss Wife Rubiselis Pose With Randy Whetstone"></a>
 
-<a href="images/photo-gallery/cuba/cuba2.jpg" class="lightbox" title="Historic Church"><img src="images/photo-gallery/thumbs/cuba/cuba2.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Alter call.jpg"><img src="images/photo-gallery/thumbs/cuba/Alter call.jpg" width="100" height="66" alt="Alter Call"></a>
 
-<a href="images/photo-gallery/cuba/cuba3.jpg" class="lightbox" title=""><img src="images/photo-gallery/thumbs/cuba/cuba3.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Evangelist Adonis Carballeira.jpg"><img src="images/photo-gallery/thumbs/cuba/Evangelist Adonis Carballeira.jpg" width="100" height="66" alt="Evangelist Adonis Carballeira"></a>
 
-<a href="images/photo-gallery/cuba/cuba4.jpg" class="lightbox" title=""><img src="images/photo-gallery/thumbs/cuba/cuba4.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Forsake not the children to come unto Me.jpg"><img src="images/photo-gallery/thumbs/cuba/Forsake not the children to come unto Me.jpg" width="100" height="66" alt="Forsake Not The Children To Come Unto Me"></a>
 
-<a href="images/photo-gallery/cuba/cuba5.jpg" class="lightbox" title=""><img src="images/photo-gallery/thumbs/cuba/cuba5.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Fuego anointed evangelists.jpg"><img src="images/photo-gallery/thumbs/cuba/Fuego anointed evangelists.jpg" width="100" height="66" alt="Fuego Anointed Evangelists"></a>
 
-<a href="images/photo-gallery/cuba/cuba6.jpg" class="lightbox" title=""><img src="images/photo-gallery/thumbs/cuba/cuba6.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Ministry Time.jpg"><img src="images/photo-gallery/thumbs/cuba/Ministry Time.jpg" width="100" height="66" alt="Ministry Time"></a>
 
-<a href="images/photo-gallery/cuba/cuba7.jpg" class="lightbox" title=""><img src="images/photo-gallery/thumbs/cuba/cuba7.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Paster Jesus Estela.jpg"><img src="images/photo-gallery/thumbs/cuba/Paster Jesus Estela.jpg" width="100" height="66" alt="Paster Jesus Estela"></a>
 
-<a href="images/photo-gallery/cuba/cuba8.jpg" class="lightbox" title=""><img src="images/photo-gallery/thumbs/cuba/cuba8.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Pastor Ricardo Carballeira.jpg"><img src="images/photo-gallery/thumbs/cuba/Pastor Ricardo Carballeira.jpg" width="100" height="66" alt="Pastor Ricardo Carballeira"></a>
 
-<a href="images/photo-gallery/cuba/cuba9.jpg" class="lightbox" title=""><img src="images/photo-gallery/thumbs/cuba/cuba9.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Pastor Rose.jpg"><img src="images/photo-gallery/thumbs/cuba/Pastor Rose.jpg" width="100" height="66" alt="Pastor Rose"></a>
 
-<a href="images/photo-gallery/cuba/cuba10.jpg" class="lightbox" title=""><img src="images/photo-gallery/thumbs/cuba/cuba10.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Prayed blessing over all  the children the chil.jpg"><img src="images/photo-gallery/thumbs/cuba/Prayed blessing over all  the children the chil.jpg" width="100" height="66" alt="Prayed Blessing Over All  The Children The Chil"></a>
 
-<a href="images/photo-gallery/cuba/cuba11.jpg" class="lightbox" title=""><img src="images/photo-gallery/thumbs/cuba/cuba11.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Praying for the needs of the people.jpg"><img src="images/photo-gallery/thumbs/cuba/Praying for the needs of the people.jpg" width="100" height="66" alt="Praying For The Needs Of The People"></a>
 
-<a href="images/photo-gallery/cuba/cuba12.jpg" class="lightbox" title=""><img src="images/photo-gallery/thumbs/cuba/cuba12.jpg" width="100" height="75" alt="Cuba"></a>
+<a class="lightbox" href="images/photo-gallery/cuba/Randy and Recardo, what a team.jpg"><img src="images/photo-gallery/thumbs/cuba/Randy and Recardo, what a team.jpg" width="100" height="66" alt="Randy And Recardo, What A Team"></a>
+
+<a class="lightbox" href="images/photo-gallery/cuba/Richard and Randy praying for the sick.jpg"><img src="images/photo-gallery/thumbs/cuba/Richard and Randy praying for the sick.jpg" width="100" height="66" alt="Richard And Randy Praying For The Sick"></a>
+
+<a class="lightbox" href="images/photo-gallery/cuba/Richard Kessler and Adonis Carballeira.jpg"><img src="images/photo-gallery/thumbs/cuba/Richard Kessler and Adonis Carballeira.jpg" width="100" height="66" alt="Richard Kessler And Adonis Carballeira"></a>
+
+<a class="lightbox" href="images/photo-gallery/cuba/Rubisalis leading worship.jpg"><img src="images/photo-gallery/thumbs/cuba/Rubisalis leading worship.jpg" width="100" height="66" alt="Rubisalis Leading Worship"></a>
+
+<a class="lightbox" href="images/photo-gallery/cuba/Village Church.jpg"><img src="images/photo-gallery/thumbs/cuba/Village Church.jpg" width="100" height="66" alt="Village Church">
+
+<a class="lightbox" href="images/photo-gallery/cuba/Overview of crowd in Las Tunas.jpg"><img src="images/photo-gallery/thumbs/cuba/Overview of crowd in Las Tunas.jpg" width="277" height="66" alt="Overview Of Crowd In Las Tunas"></a>
 
 <br \><br \><br \><br \>
 </div>

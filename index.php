@@ -13,8 +13,12 @@
         empowers him to deliver the truth of Gods word to the lost.
         Seeing thousands come to the saving grace of Jesus Christ.
         With many miracles and signs that make the multitudes wonder.</p>
+        <hr />
+        
+        <img src="images/poster.jpg" alt="Upcoming Event">
+        <a href="gathering.php" style="display:block;text-align:center;">More Info About This Event</a>
     </div>
-    <hr />
+     <hr />
     <div id="box2">
       <h2>Featured Videos</h2>
       

@@ -24,18 +24,18 @@
       <a name="partner" id="partner"></a> 
        <h2>Become a Monthly Partner</h2>
 
-<p>As you partner with Lightning &amp; Thunder Ministry you are making it possible for the message of Jesus Christ to be preached in 3rd world countries like Zambia, Congo, Tanzania, Uganda, Rwanda, and India.</p>
+<p>AAs you partner with Lightning &amp; Thunder Ministry you are making it possible for the message of Jesus Christ to be preached in 3rd world countries like Zambia, Congo, Tanzania, Uganda, Rwanda, and India.</p>
 
-Your loving support enables Lightning &amp; Thunder Ministry to:
+Your love gifts help to:
 <ul>
-<li>Plants churches</li>
-<li>Trains pastors in the LTM Supernatural Training Center</li>
-<li>Feed children </li>
-<li>Ministers to the orphans and the widows </li>
-<li>Assist other ministries</li>
-<li>Support Christian based school</li>
-<li>Materials to train pastors such as bicycles and Bibles</li>
+<li>To take the Gospel of the Kingdom of God to nations</li>
+<li>Prepare the ground and build a Supernatural Training Center in Lusaka, Zambia. This facility be used to equip Pastors and leaders, also it </li>will house a school for 100 children.
+<li>School materials for children and teachers</li>
+<li>Training materials for Pastors</li>
+<li>Vehicle for Africa missions</li>
+<li>Plant LTM churches and equip them with instruments and electronics * New Hispanic church in Miami needs musical instruments</li>
 </ul>
+
 <p>As a partner with Lightning &amp; Thunder Ministry you share in the anointing, rewards and fruits from the salvation, healing and deliverance of the oppressed.  We pray for the anointing and blessings of God’s Spirit to overtake you as you reap the rewards of your generosity. We ask that Father God would open up the heavens for you to receive the spirit of increase of wisdom, revelation and financial blessings.</p>
 
 <p align="center">THANK YOU FOR PARTNERING WITH THIS “GO YE” MINISTRY</p>

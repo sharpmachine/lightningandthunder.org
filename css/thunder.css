@@ -76,6 +76,11 @@ html, body {
 	text-align:justify;
 }
 
+#sidebar,
+#sidebar2 {
+	clear: left;
+}
+
 #sidebar
 {
 	width:200px;
