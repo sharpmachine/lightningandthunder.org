@@ -15,8 +15,8 @@
         With many miracles and signs that make the multitudes wonder.</p>
         <hr />
         
-        <img src="images/poster.jpg" alt="Upcoming Event">
-        <a href="gathering.php" style="display:block;text-align:center;">More Info About This Event</a>
+        <a href="gathering.php"><img src="images/poster.jpg" alt="Upcoming Event"></a>
+        <a href="gathering.php" style="display:block;text-align:center;font-weight:bold;font-size:20px;">More Info About This Event</a>
     </div>
      <hr />
     <div id="box2">

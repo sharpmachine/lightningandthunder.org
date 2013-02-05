@@ -4,20 +4,20 @@
 			<div class="date">Gathering of the Nations Conference</div>
 			<p><strong>March 15th-17th in Fairfield, IA</strong><br><a href="gathering.php">More info about this event</a></p>
 			
-			<div class="date">Prophetic Kingdom Gathering</div>
-			<p style="text-align:center;"><strong>Sunday Mornings at 10am</strong><br>
-			Best Western Hotel (Conference Room)<br>
-			2200 W. Burlington<br>
-			Fairfield, IA</p>
-			<p>THIS IS A PLACE FOR EQUIPPING AND TRAINING TO REIGN, AS THE HOLY SPIRIT SETS US FREE. WE GIVE ROOM FOR THE SUPERNATURAL GOD TO MOVE IN THE MEETINGS, ALLOWING THE GIFTINGS WITHIN THE PEOPLE TO HAVE A PLACE TO DEVELOP AND GROW.</p>
-			
-			<div class="date">Kingdom of Heave Home Gathering</div>
-			<p style="text-align:center;"><strong>Every 3rd Sunday at 4pm<</strong>br>
+			<div class="date">Kingdom of Heaven Home Gathering</div>
+			<p style="text-align:center;"><strong>Every 3rd Sunday at 4pm</strong><br>
 			Lightning &amp; Thunder Home<br>
 			Richard &amp; Rose Kessler<br>
 			32570 310th St.<br>
 			Richland, IA<br>
 			319-456-8600</p>
+			
+			<div style="text-align: center;">Prophetic Kingdom Gathering</div>
+			<p style="text-align:center;"><strong>Sunday Mornings at 10am</strong><br>
+			Best Western Hotel (Conference Room)<br>
+			2200 W. Burlington<br>
+			Fairfield, IA</p>
+			<p>THIS IS A PLACE FOR EQUIPPING AND TRAINING TO REIGN, AS THE HOLY SPIRIT SETS US FREE. WE GIVE ROOM FOR THE SUPERNATURAL GOD TO MOVE IN THE MEETINGS, ALLOWING THE GIFTINGS WITHIN THE PEOPLE TO HAVE A PLACE TO DEVELOP AND GROW.</p>
 			
 			<div class="date">Coming Soon - Supernatural Training Center</div>
 			<p>We are moving forward with a vision we received in 2005 to build a  Supernatural Training Center in Iowa!  <a href="trainingcenter.html" rel="#overlay5">Read More...</a></p>

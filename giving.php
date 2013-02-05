@@ -12,7 +12,7 @@
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="7666377">
+<input type="hidden" name="hosted_button_id" value="ULHNVAHNGXDF2">
 <input type="image" src="images/donate.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 </form>
 </div>
@@ -46,7 +46,7 @@ Your love gifts help to:
                         <td width="224"><p><strong>$10 Monthly Partnership</strong> </p>
                           <p><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 	<input type="hidden" name="cmd" value="_s-xclick"></input>
-	<input type="hidden" name="hosted_button_id" value="7666489"></input>
+	<input type="hidden" name="hosted_button_id" value="Y5VHVC33JSK9G"></input>
 	<div align="center"><input name="submit" type="image" src="images/partner.gif" align="center" /></input></div><br />
 
                           </form></p></td>
@@ -56,7 +56,7 @@ Your love gifts help to:
                           <p>
                             <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 	<input type="hidden" name="cmd" value="_s-xclick"></input>
-	<input type="hidden" name="hosted_button_id" value="7666520"></input>
+	<input type="hidden" name="hosted_button_id" value="N7DDW8TSZ57AS"></input>
 	<div align="center"><input name="submit" type="image" src="images/partner.gif" align="center" /></input></div><br />
 
 </form>
@@ -65,7 +65,7 @@ Your love gifts help to:
                           <p>
                             <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 	<input type="hidden" name="cmd" value="_s-xclick"></input>
-	<input type="hidden" name="hosted_button_id" value="7666570"></input>
+	<input type="hidden" name="hosted_button_id" value="AFJZTP6FA487W"></input>
 <div align="center"><input name="submit" type="image" src="images/partner.gif" align="center" /></input></div><br />
 
 </form>
@@ -76,7 +76,7 @@ Your love gifts help to:
                           <p>
                             <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 	<input type="hidden" name="cmd" value="_s-xclick"></input>
-	<input type="hidden" name="hosted_button_id" value="7666591"></input>
+	<input type="hidden" name="hosted_button_id" value="JY23W6LCK43XC"></input>
 <div align="center"><input name="submit" type="image" src="images/partner.gif" align="center" /></input></div><br />
 
 </form>
@@ -85,7 +85,7 @@ Your love gifts help to:
                           <p>
                             <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 	<input type="hidden" name="cmd" value="_s-xclick"></input>
-	<input type="hidden" name="hosted_button_id" value="7666614"></input>
+	<input type="hidden" name="hosted_button_id" value="L7VT3QBLUC4XN"></input>
 <div align="center"><input name="submit" type="image" src="images/partner.gif" align="center" /></input></div><br />
 
 </form>
@@ -94,7 +94,7 @@ Your love gifts help to:
                           <p>
                             <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 	<input type="hidden" name="cmd" value="_s-xclick"></input>
-	<input type="hidden" name="hosted_button_id" value="7666631"></input>
+	<input type="hidden" name="hosted_button_id" value="SGJP3LRGGLSKC"></input>
 <div align="center"><input name="submit" type="image" src="images/partner.gif" align="center" /></input></div><br />
 
 </form>

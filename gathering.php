@@ -2,7 +2,7 @@
 <div id="content">
   <div>
     <h1>Gathering of the Nations Conference</h1>
-    <h2>￼GATHERING OF THE NATIONS CONFERENCE IS FOR ALL PEOPLES, NATIONS AND DENOMINATIONS
+    <h2>GATHERING OF THE NATIONS CONFERENCE IS FOR ALL PEOPLES, NATIONS AND DENOMINATIONS
 <br>WHERE THE REALITY OF THE KINGDOM OF GOD IS PROCLAIMED AND MANIFESTED IN UNITY WITH ONENESS AND PURPOSE OF HEART</h2>
     <h3>March 15th, 16th and 17th</h3>
     <p>Theme: “The Kingdom of Heaven"</p>
@@ -22,7 +22,7 @@ Bills passion is: There is only one thing that I desire, to be in His presence a
 "Ijwi Ryiza”. He has been a blessing to many as he travels numerous places to share his anointed music, selling his album around the world. Through wisdom, passion and commitment Pastor Jacques is seeing his church grow in all areas: spiritually, emotionally and physically. Jacques has come to America from the Congo with his wonderful wife and they have three children.
 Many things can be said about Pastor Jacques, but one thing many will agree on, that his anointing cannot be hidden and he has been chosen remarkably by the Lord.</p>
 
-￼<h3>BAND AND WORSHIP TEAMS:</h3>
+<h3>BAND AND WORSHIP TEAMS:</h3>
 <p><strong>Piercing The Darkness</strong> Originally formed in January 2007, Piercing the Darkness came together to form a band that has a love for music and, more importantly, a love for Jesus Christ. This Christian rock and worship band performs a variety of originals and cover songs. They have opened and/or played at the same events with Seventh Day Slumber, Remedy Drive, Disciple, Manafest, & Newsboys.<br>
 MEMBERS:<br>
 Steve Shettler - vocals, Chris Weinreich - lead guitar, Ken Finch - guitar, Tammy Finch - bass guitar, Curt Roozeboom - drums, Dave Harvey - sound engineer</p>
@@ -32,6 +32,19 @@ With Pastor Jacques on the keyboard this group is a true celebration of Africa p
 ￼
 <p><strong>Eugene Kiruhura and “The Messengers”</strong>
 This awesome group of young people has all come out of refugee camps in Burundi, Africa. They have not only seen many hardships, but have at the same time seen the supernatural hand of God intervene on their behalf and bring them to America. They have learned to be thankful in all situations and praise God with all their hearts. Their singing and dancing will not only bless people, but will energize many to join in the celebration with Africa style dancing along with them.</p>
+
+<h3>Hotels</h3>
+<p>Best Western<br>
+2200 W Burlington Ave.<br>
+641-472-2200</p>
+ 
+<p>Super 8<br>
+3001 Burlington Ave<br>
+641-469-2000</p>
+ 
+<p>AmericInn<br>
+2104 S Main St.<br>
+461-451-6600</p>
 
 <p>For More info contact: Richard and Rose Kessler 319-456-8600 OR 641-919-0416 32570 310TH. St. Richland, Iowa 52585
 <a href="mailto:rrkess@Iowatelecom.net">rrkess@Iowatelecom.net</a></p>
