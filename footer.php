@@ -1,5 +1,5 @@
 		<!--begin footer-->
-		<div id="footer">&copy;2011 lightningandthunder.org</div>
+		<div id="footer">&copy;<?php echo date('Y'); ?> lightningandthunder.org</div>
 		<br>
 		<!--end footer-->
 		<script type="text/javascript" src="javascript/jquery.lightbox-0.5.pack.js"></script>

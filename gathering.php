@@ -33,21 +33,28 @@ With Pastor Jacques on the keyboard this group is a true celebration of Africa p
 <p><strong>Eugene Kiruhura and “The Messengers”</strong>
 This awesome group of young people has all come out of refugee camps in Burundi, Africa. They have not only seen many hardships, but have at the same time seen the supernatural hand of God intervene on their behalf and bring them to America. They have learned to be thankful in all situations and praise God with all their hearts. Their singing and dancing will not only bless people, but will energize many to join in the celebration with Africa style dancing along with them.</p>
 
+<p><strong>Templo Elim Worship Team</strong>
+This awesome Hispanic team carries a breaker anointing that ushers in the presence of the Lord.  They are from the Templo Elim Assambles de Dios in Rock Island, Il.</p>
+
 <h3>Hotels</h3>
 <p>Best Western<br>
 2200 W Burlington Ave.<br>
-641-472-2200</p>
- 
-<p>Super 8<br>
-3001 Burlington Ave<br>
-641-469-2000</p>
+641-472-2200<br>
+Be sure to mention Lightning &amp; Thunder Ministry and Gathering of the Nations Conference for discounted rate</p>
  
 <p>AmericInn<br>
 2104 S Main St.<br>
-461-451-6600</p>
+461-451-6600<br>
+Be sure to mention Lightning &amp; Thunder Ministry and Gathering of the Nations Conference for discounted rate</p>
+
+<p>Super 8<br>
+3001 Burlington Ave<br>
+641-469-2000</p>
 
 <p>For More info contact: Richard and Rose Kessler 319-456-8600 OR 641-919-0416 32570 310TH. St. Richland, Iowa 52585
 <a href="mailto:rrkess@Iowatelecom.net">rrkess@Iowatelecom.net</a></p>
+
+<p>For even more info visit <a href="http://www.fairfieldacc.com/events/gathering-of-the-nations-conference-2013-03-15.html">http://www.fairfieldacc.com/events/gathering-of-the-nations-conference-2013-03-15.html</a></p>
 ￼￼￼￼
 
 
